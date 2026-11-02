@@ -77,3 +77,5 @@ HR Employee Performance Analytics Dashboard using Power BI to analyze employee p
 ## Dashboard Preview
 
 ![HR Employee Performance Dashboard](Dashboard_Screenshot.png)
+<img width="1317" height="734" alt="Screenshot 2026-09-19 143109" src="https://github.com/user-attachments/assets/25f7287c-df95-4061-b1e5-7506402ff6af" />
+
